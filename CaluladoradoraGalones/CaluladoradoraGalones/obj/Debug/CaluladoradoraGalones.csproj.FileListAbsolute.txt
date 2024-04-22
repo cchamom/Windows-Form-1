@@ -1,0 +1,10 @@
+C:\Users\Cristian Chamo\Desktop\WindowsForm\CaluladoradoraGalones\CaluladoradoraGalones\obj\Debug\CaluladoradoraGalones.csproj.AssemblyReference.cache
+C:\Users\Cristian Chamo\Desktop\WindowsForm\CaluladoradoraGalones\CaluladoradoraGalones\obj\Debug\CaluladoradoraGalones.Form1.resources
+C:\Users\Cristian Chamo\Desktop\WindowsForm\CaluladoradoraGalones\CaluladoradoraGalones\obj\Debug\CaluladoradoraGalones.Properties.Resources.resources
+C:\Users\Cristian Chamo\Desktop\WindowsForm\CaluladoradoraGalones\CaluladoradoraGalones\obj\Debug\CaluladoradoraGalones.csproj.GenerateResource.cache
+C:\Users\Cristian Chamo\Desktop\WindowsForm\CaluladoradoraGalones\CaluladoradoraGalones\obj\Debug\CaluladoradoraGalones.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Chamo\Desktop\WindowsForm\CaluladoradoraGalones\CaluladoradoraGalones\bin\Debug\CaluladoradoraGalones.exe.config
+C:\Users\Cristian Chamo\Desktop\WindowsForm\CaluladoradoraGalones\CaluladoradoraGalones\bin\Debug\CaluladoradoraGalones.exe
+C:\Users\Cristian Chamo\Desktop\WindowsForm\CaluladoradoraGalones\CaluladoradoraGalones\bin\Debug\CaluladoradoraGalones.pdb
+C:\Users\Cristian Chamo\Desktop\WindowsForm\CaluladoradoraGalones\CaluladoradoraGalones\obj\Debug\CaluladoradoraGalones.exe
+C:\Users\Cristian Chamo\Desktop\WindowsForm\CaluladoradoraGalones\CaluladoradoraGalones\obj\Debug\CaluladoradoraGalones.pdb
